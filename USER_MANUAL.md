@@ -43,7 +43,7 @@ After creating a Figma account, you can then access the prototype via the follow
 * Certification - This section includes the certificate that Gwyn Ann S. Lobaton received from the required Coursera course as part of this course's requirements.
 
 <br>
-___________________________
+
 
 ![White Simple Marketing Agency Twitter Header](https://github.com/glyphine/LOBATON-HCI-portfolio/assets/123319407/5a5b93d6-7196-4671-9893-2e9fb5d845b5)
 
