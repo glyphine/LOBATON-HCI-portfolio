@@ -32,6 +32,8 @@ After creating a Figma account, you can then access the prototype via the follow
 
 ## ADDITIONAL INFORMATION
 
+* Assets - This section includes major assets such as the team logo and the StudyMatch logo itself, which are key elements representing our project's identity and branding.
+
 * Part 1 - This section includes the major assets of both the team and the app itself, primarily featuring the main logos. It also contains the presentation and proposal of the app.
 
 * Part 2 - This section features a single document outlining the design proposals for the app. It covers the app's visual design, base assets, alternative designs, wireframes, and scenarios that highlight the app's usefulness.
