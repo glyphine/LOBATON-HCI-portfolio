@@ -15,6 +15,9 @@ Along with Jonas Gabriel L. Rusiana, we formed a group named "ICED TEA PIONEERS,
 <br>
 <br> 
 
+<h1 align = "center"> OUR TEAM LOGO ITSELF </h1>
+
+![STUDYMATCH (3)](https://github.com/glyphine/LOBATON-HCI-portfolio/assets/123319407/7549d167-52a5-46b3-b760-57ad3526f9ca)
 
 <h1 align = "center"> FOR MORE INFORMATION  </h1>
 
