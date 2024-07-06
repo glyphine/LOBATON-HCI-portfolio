@@ -26,7 +26,7 @@ Along with Jonas Gabriel L. Rusiana, we formed a group named "ICED TEA PIONEERS,
 <h1 align = "center"> FOR MORE INFORMATION  </h1>
 
 
-Please refer to [User Manual](USER_MANUAL.md) for more information about the deliverables and the compilation. Thank you
+Please refer to [User Manual](USER_MANUAL.md) for more information about the deliverables and the compilation. Thank you!!
 
 <br>
 
